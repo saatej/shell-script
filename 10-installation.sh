@@ -44,7 +44,7 @@ exit 1
 
 else 
 
-installation of git...success
+echo "installation of git...success"
 
 fi
 
